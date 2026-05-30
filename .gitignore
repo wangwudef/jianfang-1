@@ -1,0 +1,13 @@
+# 个人素材（不上传）
+references/sources/
+# 原始文件
+*.docx
+*.epub
+*.pdf
+*.txt
+# 系统文件
+.DS_Store
+# 调研缓存
+references/research/*.md
+# 个人笔记
+*_full.txt
